@@ -1,10 +1,10 @@
 # Nonlinear models - DEs/UEM #
   
-  > Two works developed for the course of Nonlinear Models in the first semester of 2017 at [DEs/UEM](http://www.des.uem.br/) minister by professor [Josmar Mazucheli](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4799931Y7).
+  > Two works developed for the course of Nonlinear Models in the first semester of 2017 taught by professor [Josmar Mazucheli](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4799931Y7) at [DEs/UEM](http://www.des.uem.br/).
 
 ## Antibodies Anticoronavirus Assayed by an ELISA Test: Comparing Several Response Curves
-This paper presents the analysis of data from section 1.1.3 of the book written by [Huet et al. (2004).](https://www.springer.com/la/book/9780387400815).
-This dataset was derived from an experiment which used an [ELISA](https://en.wikipedia.org/wiki/ELISA) test to detect the presence of antibodies in calf and cow serum. The problem is restricted to comparing antibody levels in two serum samples collected in May and June of a given cow.
+
+This paper presents the analysis of data from section 1.1.3 of the book written by [Huet et al. (2004).](https://www.springer.com/la/book/9780387400815). This dataset was derived from an experiment which used an [ELISA](https://en.wikipedia.org/wiki/ELISA) test to detect the presence of antibodies in calf and cow serum. The problem is restricted to comparing antibody levels in two serum samples collected in May and June of a given cow.
 
 ***
 > [Report](https://github.com/AndrMenezes/nlm2017/raw/master/docs/work1.pdf)
