@@ -36,7 +36,7 @@ This dataset was derived from an experiment which used an [ELISA](https://en.wik
  
   * [Fitting the models](https://github.com/AndrMenezes/nlm2017/tree/master/scripts/R/analise-ajustes-NLR2.sas)
   
-  * [Predictions](https://github.com/AndrMenezes/nlm2017/tree/master/scripts/R/ 	analise-predicao-NLR2.sas)
+  * [Predictions](https://github.com/AndrMenezes/nlm2017/tree/master/scripts/R/analise-predicao-NLR2.sas)
 ***
 
 
