@@ -15,7 +15,7 @@ This dataset was derived from an experiment which used an [ELISA](https://en.wik
 ***
 
 ## Nonlinear models with heterocedastic errors
-In this paper the aim is to introduce an alternative model to that proposed by [Zeviani et al. (2013)](www.leg.ufpr.br/~walmes/cursoR/mrnl2013/master.pdf) in chapter 8 in order to model the mass growth (g) of guava fruits by means of nonlinear models with modeling of the variance.
+In this paper the aim is to introduce an alternative model to that proposed by [Zeviani et al. (2013)](http://www.leg.ufpr.br/~walmes/cursoR/mrnl2013/) in chapter 8 in order to model the mass growth (g) of guava fruits by means of nonlinear models with modeling of the variance.
 
 ***
 > [Report](https://github.com/AndrMenezes/nlm2017/raw/master/docs/work2.pdf)
