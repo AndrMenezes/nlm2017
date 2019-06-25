@@ -14,7 +14,7 @@ This paper presents the analysis of data from section 1.1.3 of the book written 
 > [SAS script](https://github.com/AndrMenezes/nlm2017/blob/master/scripts/SAS/analise-NLR1.sas)
 ***
 
-## Nonlinear models with heterocedastic errors
+## Nonlinear models with Heteroscedastic errors
 In this paper the aim is to introduce an alternative model to that proposed by [Zeviani et al. (2013)](http://www.leg.ufpr.br/~walmes/cursoR/mrnl2013/master.pdf) in chapter 8 in order to model the mass growth (g) of guava fruits by means of nonlinear models with modeling of the variance.
 
 ***
