@@ -1,4 +1,4 @@
-# Nonlinear models - DEs/UEM #
+# Nonlinear Models - DEs/UEM #
   
   > Two works developed for the course of Nonlinear Models in the first semester of 2017 taught by professor [Josmar Mazucheli](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4799931Y7) at [DEs/UEM](http://www.des.uem.br/).
 
